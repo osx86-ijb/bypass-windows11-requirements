@@ -13,3 +13,5 @@
 - *10)* Profit from not having the requirements of Secure Boot and TPM 2.0 being enabled in place.
 
 ## _*(PS: You're welcome)*_
+
+![Was it REALLY that hard, dunce?](https://i.ibb.co/FhwBD9v/Mhm-copy.png)
