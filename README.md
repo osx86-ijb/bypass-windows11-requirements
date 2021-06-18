@@ -1,6 +1,6 @@
 ## *The steps necessary to remove the "Secure Boot" and "TPM 2.0" requirements error when attempting to install Windows 11 Consumer Preview*
 
-- *1)*  Obtain a Windows 10 ISO
+- *1)*  Obtain the newest available Windows 10 ISO from Micro$0ft
 - *2)*  Already have made your Windows 11 USB Installer using Rufus
 - *3)*  Mount Windows 10 ISO 
 - *4)*  Find and locate the folder named Sources on the mounted ISO
