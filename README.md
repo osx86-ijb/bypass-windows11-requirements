@@ -1,9 +1,10 @@
-#### DISCLAIMER:
+# DISCLAIMER:
 
+## THIS INFORMATION IS DONE PURELY AS RESEARCH, AND IS IN NO MAY MEANT TO PROMOTE CIRCUMVENTING ANYTHING THAT IS SOMEONE ELSE'S CORPORATE PRIVATE PROPERTY. THE INFORMATION LISTED HERE IS PURELY FOR EDUCATIONAL PURPOSES, SHOULD YOU CHOOSE TO UTILIZE IT IN ANY WAY, I AM IN NO WAY RESPONSIBLE FOR ANY INJUNCTIONS THAT MAY OR MAY NOT BE BROUGHT AGAINST ANOTHER FOR THEIR CHOOSING TO HAVE DONE SO.
 
-# *There are three different methods and ways that you can use to steps to remove the "Secure Boot" and "TPM 2.0" requirements error when attempting to install Windows 11 Consumer Preview (for now, some methods might not work in the future though depending on whether or not Microsoft wants to patch such!) on machines that do not meet either of those requirements. The methods listed are listed below, and as follows*:
+### *There are three different methods and ways that you can use to steps to remove the "Secure Boot" and "TPM 2.0" requirements error when attempting to install Windows 11 Consumer Preview (for now, some methods might not work in the future though depending on whether or not Microsoft wants to patch such!) on machines that do not meet either of those requirements. The methods listed are listed below, and as follows*:
 
-## Method 1:
+### Method 1:
 
 - *1)*  Obtain the newest available Windows 10 ISO.
 - *2)*  Obtain the Windows 11 image.
@@ -18,7 +19,7 @@
 - *10)*  Boot from Windows 11 USB Installer.
 - *11)*  Profit.
 
-## Method 2:
+### Method 2:
 
 - *1)*  Obtain the Windows 11 image.
 - *2)*  Obtain the newest Windows 10 image using (https://uup.rg-adguard.net/), or MSDN.
@@ -32,7 +33,7 @@
 - *10)*  Boot from the created Windows 10/11 (install.wim) USB Installer that you've just finished creating and editing.
 - *11)*  Profit.
 
-## Method 3:
+### Method 3:
 
 - *1)*  Obtain Windows 11 image
 - *2)*  Make Windows 11 USB Installer using Rufus on Windows
