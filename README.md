@@ -1,3 +1,6 @@
+#### DISCLAIMER:
+
+
 # *There are three different methods and ways that you can use to steps to remove the "Secure Boot" and "TPM 2.0" requirements error when attempting to install Windows 11 Consumer Preview (for now, some methods might not work in the future though depending on whether or not Microsoft wants to patch such!) on machines that do not meet either of those requirements. The methods listed are listed below, and as follows*:
 
 ## Method 1:
